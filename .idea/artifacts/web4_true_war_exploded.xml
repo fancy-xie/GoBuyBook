@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="web4-true:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/web4_true_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="web4-true/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="web4-true" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
